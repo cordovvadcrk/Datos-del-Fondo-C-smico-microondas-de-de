@@ -7,4 +7,4 @@ El presente codigo tiene como objetivo utilizar datos de la mision "WMAP" de la 
 * Numpy
 * Matpllotlib
 * AstroPy
-*HealPy
+* HealPy
